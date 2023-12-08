@@ -4,4 +4,4 @@
 
 # Solutions
 
-- Day 1: Trebuchet! [Solution](day1/trebuchet.py) - [Write Up](day1/solution.md)
+- Day 1 Problem 1: Trebuchet! [Solution](day1/trebuchet.py) - [Write Up](day1/solution.md)
