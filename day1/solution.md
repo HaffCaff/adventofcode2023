@@ -29,7 +29,9 @@ I then neeeded a way to make verify this was working as intended, so I did a sim
     - if len(line) == 1: Since we have 1 digit, it was just add another char of same digit. i.e. 1 => 11
     - else: Add to running total
 
-Output the total and BOOM! WE got our answer :D!
+Output the total and BOOM! WE got our answer :D... for part 1
+
+Part required us to actually parse the whole string for potential words as well, which would then represent different starting or ending numbers. Here I decided to refactor my code into functions to make a bit easier to read and organize.
 
 If I was to rewrite this in another language, I would try it with Go. 
 
